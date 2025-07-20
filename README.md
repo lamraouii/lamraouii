@@ -39,9 +39,8 @@ Welcome to my GitHub! I'm a passionate and curious engineering student at ENSA O
 ## 🎓 Academic & Club Life
 
 - 🧠 Mentored first-year students in **computer architecture** through a club event *"فاتحة نور"*
-- 📚 Supervised a team in a month-long study competition on the book *"عبقرية محمد"*
-- 🎤 Participated in a public speaking contest with **Club Altruism** at ENSAO
-- 💼 Treasurer of my cultural and educational club
+- 🎤 Participated in a public speaking competitions
+- 💼 president of my cultural and educational club 
 
 ---
 
