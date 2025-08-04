@@ -62,6 +62,6 @@ I'm always open to collaborations, feedback, or just a good conversation about t
 
 ---
 
-> "Build with purpose, not just polish."
+> "A wise man once said: SaaatMmmaaat"
 
 Thanks for visiting my GitHub! 🌟
