@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Ismail Lamraoui!
+#  Hi there, I'm Ismail Lamraoui!
 
 Welcome to my GitHub! I'm a passionate and curious engineering student at ENSA Oujda (Morocco), exploring the world of software development, data, and technology-driven impact.  
 
 ---
 
-## 💻 What I'm Working On
+## 🧭 What I'm Working On
 
 - 🔬 **Blood Donation Awareness Website**  
   A dynamic, educational platform to raise awareness and provide resources about blood donation in Morocco. Currently built with HTML & CSS — working on adding responsiveness, JavaScript interactions, and possibly user forms.
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate and curious engineering student at ENSA O
 
 ---
 
-## 🚀 My Tech Stack
+##  My Tech Stack
 
 **Languages & Tools:**
 - Java • Python • C++ • JavaScript (learning) • SQL  
@@ -27,24 +27,24 @@ Welcome to my GitHub! I'm a passionate and curious engineering student at ENSA O
 
 ---
 
-## 🌱 Currently Learning
+## 🧭 Currently Learning
 
 - 🕸️ Frontend Web Development (JavaScript, Bootstrap, responsiveness)
-- 📊 Data Analysis with Python libraries
-- 🎮 MVC design pattern in desktop applications
+-  Data Analysis with Python libraries
+-  MVC design pattern in desktop applications
 - 🌐 Network routing, OS fundamentals, compilation (for my coursework)
 
 ---
 
-## 🎓 Academic & Club Life
+## 🧭 Academic & Club Life
 
-- 🧠 Mentored first-year students in **computer architecture** through a club event *"فاتحة نور"*
+- 🧮 Mentored first-year students in **computer architecture** through a club event *"فاتحة نور"*
 - 🎤 Participated in a public speaking competitions
-- 💼 president of my cultural and educational club 
+- 💼 President of my cultural and educational club 
 
 ---
 
-## 🧩 Fun Facts
+##  Fun Facts
 
 - I love learning through **hands-on building**, **competitions**, and helping others grasp tough concepts.
 - Big fan of mixing **tech** with **real-world impact** — like awareness platforms and educational games.
@@ -52,9 +52,9 @@ Welcome to my GitHub! I'm a passionate and curious engineering student at ENSA O
 
 ---
 
-## 📫 Let's Connect
+## 📨 Let's Connect
 
-I'm always open to collaborations, feedback, or just a good conversation about tech, education, or meaningful ideas.
+I'm always open to collaborations, **feedback**, or just a good conversation about tech, education, or meaningful ideas.
 
 - 📧 Email: ismail.lamraoui.23@ump.ac.ma
 - 💼 LinkedIn: www.linkedin.com/in/ismail-lamraoui-708134297
